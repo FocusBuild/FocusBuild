@@ -77,7 +77,7 @@ const App: () => Node = () => {
           }}>
           <Section title="Step One">
             Edit <Text style={styles.highlight}>App.js</Text> to change this
-            screen and then PENIS your edits.
+            screen blahhhhh.
           </Section>
           <Section title="See Your Changes">
             <ReloadInstructions />
@@ -86,7 +86,7 @@ const App: () => Node = () => {
             <DebugInstructions />
           </Section>
           <Section title="Learn More">
-            Read the docs to discover what to do next:
+            test test test edit
           </Section>
           <LearnMoreLinks />
         </View>

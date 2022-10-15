@@ -75,9 +75,8 @@ const App: () => Node = () => {
           style={{
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
           }}>
-          <Section title="Step One">
-            Edit <Text style={styles.highlight}>App.js</Text> to change this
-            screen blahhhhh.
+          <Section title="Welcome to Focus Build">
+            the first blockchain based productivity application
           </Section>
           <Section title="See Your Changes">
             <ReloadInstructions />

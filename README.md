@@ -1,7 +1,4 @@
----
-cover: .gitbook/assets/Screen Shot 2022-10-04 at 8.29.50 AM.png
-coverY: -87.92056737588652
----
+
 
 # Introducing FocusBuild
 

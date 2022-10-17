@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/Screen Shot 2022-10-17 at 1.10.50 PM.png
+coverY: -139.61175236096537
+---
+
 # Introducing FocusBuild
 
 **FocusBuild** is the first blockchain-based productivity dApp and city-building game, built for the [Solana Mobile Stack](https://github.com/solana-mobile/solana-mobile-stack-sdk).

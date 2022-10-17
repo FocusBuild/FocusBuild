@@ -35,9 +35,9 @@ They set the minimum and maximum Attribute levels of the Builder.
 
 ## Cities
 
-Cities are a visually appealing, tangible representations of the progress one's made focusing, stored on-chain!&#x20;
+Cities are a visually appealing, tangible representations of the progress one's made focusing, stored on-chain! When a structure is built, they appear in the Inventory. From there, users place the structure onto their map, further developing their city.&#x20;
 
-<figure><img src="../.gitbook/assets/Screen Shot 2022-10-12 at 2.34.43 PM.png" alt=""><figcaption><p>City Map Concept</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screen Shot 2022-10-12 at 2.34.43 PM.png" alt=""><figcaption><p>Drag and Drop City Map Concept</p></figcaption></figure>
 
 **Structures make up the city and are earned when a FocusBuild is completed. In terms of the types of structures and their 3D-Animated Design, the sky is the limit!**
 

@@ -1,3 +1,7 @@
+---
+description: The information below is subject to change.
+---
+
 # Tokenomics and Revenue Model
 
 ## **Concentrate**&#x20;

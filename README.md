@@ -16,6 +16,8 @@ Let's face it. Our modern devices are a large source of everyday distraction, ma
 
 Users use their _**Builder** -_ a unique non-fungible token - to build _**structures**_ during a FocusBuild session: a predetermined amount of time where the user doesn't leave the application. When a FocusBuild session is completed successfully, users are rewarded the _**structure**_ they’ve chosen. _**Structures**_ serve as a tangible reminder of their success without distraction stored on-chain.
 
+<figure><img src=".gitbook/assets/Screen Shot 2022-10-12 at 2.33.17 PM.png" alt=""><figcaption><p>Builder and Attributes</p></figcaption></figure>
+
 Structures are placed onto the _**City Map**_ - a unique non-fungible token that displays their historical productivity progress via the structures that have been built and placed. When a FocusBuild session is completed successfully, users also earn FocusBuild’s in-game cryptocurrency, _**Concentrate**_. _**Concentrate**_ is spent on:
 
 1. Leveling up _Builder Attributes_ to make them more efficient at generating structures and earning more Concentrate.

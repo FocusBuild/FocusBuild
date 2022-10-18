@@ -3,25 +3,11 @@ import { Button, Text, View } from "react-native";
 
 
 
-class TimerButton extends Component {
-  state = { isRunning: false };
-  render() {
-    return (
-      <View>
-        <Button onPress={() => { this.setState({ isRunning: true }); }}
-        title= {
-          this.state.isRunning ? "terminate" : "build" } />
-      </View>
-    )
-  }
-}
-
-
 class Timer extends Component {
   constructor(props) {
     super(props)
     this.state = {
-      count: 100
+      count: 0
     }
   }
   render () {
@@ -35,16 +21,20 @@ class Timer extends Component {
   // setInterval
   // clearInterval
   componentDidMount(){
-    const startCount = this.props
+    const {startCount} = this.props
     this.setState({
       count: startCount
     })
-    this.myInterval = setInterval(() => {
-      this.setState({
-        count: this.state.count - 1
-      })
-    } , 1000)
-  }
+    this.doIntervalChange() //increase interval
+}
+    doIntervalChange() {
+        this.myInterval = setInterval(() => {
+            this.setState({
+              count: this.state.count - 1
+            })
+          } , 1000)
+        }
+
   componentWillUnmount(){
     clearInterval(this.myInterval)
   }

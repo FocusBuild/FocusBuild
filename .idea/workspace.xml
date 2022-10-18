@@ -5,8 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad1508b5-9bc6-4472-9590-3a1bb9d471f6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitbook/assets/Screen Shot 2022-10-04 at 8.29.50 AM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitbook/assets/Screen Shot 2022-10-12 at 2.33.17 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitbook/assets/Screen Shot 2022-10-12 at 2.33.28 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitbook/assets/Screen Shot 2022-10-12 at 2.34.43 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitbook/assets/Screen Shot 2022-10-12 at 2.50.37 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitbook/assets/Screen Shot 2022-10-12 at 3.05.35 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitbook/assets/Screen Shot 2022-10-12 at 5.57.30 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitbook/assets/Screen Shot 2022-10-17 at 1.09.27 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitbook/assets/Screen Shot 2022-10-17 at 1.10.50 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SUMMARY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faq.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game-mechanics/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game-mechanics/structure-variation-or-animation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-roadmap.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/the-focusbuild-genesis-bundle-nft.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tokenomics-and-revenue-model.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

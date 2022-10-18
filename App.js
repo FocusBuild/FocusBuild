@@ -5,10 +5,12 @@ import TimerButton from './TimerButton'
 
 
 class App extends Component {
+
   render () {
     return (
       <View clasName ='App'>
-        <Timer startCount = '53'/>
+        <Timer startCount = '53'
+        />
         <TimerButton></TimerButton>
       </View>
     )

@@ -1,6 +1,6 @@
 import React, {Component}  from "react";
 import { Button, Text, View } from "react-native";
-
+import TimerButton from "./TimerButton";
 
 
 class Timer extends Component {
@@ -8,6 +8,9 @@ class Timer extends Component {
     super(props)
     this.state = {
       count: 0
+    }
+    this.state = {    //should not be running initially during construction.
+      isRunning: false
     }
   }
   render () {
@@ -20,21 +23,22 @@ class Timer extends Component {
   }
   // setInterval
   // clearInterval
-  componentDidMount(){
-    const {startCount} = this.props
+  componentDidMount() {
+    const {startCount} = this.props 
     this.setState({
       count: startCount
     })
+    this.setState({isRunning : TimerButton.isRunning}) 
+    //check to see if the button is pressed and if this i s running. if so, decrease timer.
     this.doIntervalChange() //increase interval
 }
-    doIntervalChange() {
+    doIntervalChange() { 
         this.myInterval = setInterval(() => {
             this.setState({
               count: this.state.count - 1
             })
           } , 1000)
         }
-
   componentWillUnmount(){
     clearInterval(this.myInterval)
   }

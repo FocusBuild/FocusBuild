@@ -1,7 +1,6 @@
 
 import { Button, Text, View } from "react-native";
 import React, {Component}  from "react";
-import Timer from './Timer'
 
 
 class TimerButton extends Component {
@@ -9,11 +8,15 @@ class TimerButton extends Component {
     render() {
       return (
         <View>
-          <Button onPress= {() => { this.setState({ isRunning: true }); }}
+          <Button onPress= {() => { this.setState({ Running: false }); }}
           title= {
             this.state.isRunning ? "terminate" : "build" } />
         </View>
       )
     }
   }
-  export default TimerButton;
+  export default TimerButton
+
+
+
+  

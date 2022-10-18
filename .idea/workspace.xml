@@ -5,23 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad1508b5-9bc6-4472-9590-3a1bb9d471f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitbook/assets/Screen Shot 2022-10-04 at 8.29.50 AM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitbook/assets/Screen Shot 2022-10-12 at 2.33.17 PM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitbook/assets/Screen Shot 2022-10-12 at 2.33.28 PM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitbook/assets/Screen Shot 2022-10-12 at 2.34.43 PM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitbook/assets/Screen Shot 2022-10-12 at 2.50.37 PM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitbook/assets/Screen Shot 2022-10-12 at 3.05.35 PM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitbook/assets/Screen Shot 2022-10-12 at 5.57.30 PM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitbook/assets/Screen Shot 2022-10-17 at 1.09.27 PM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitbook/assets/Screen Shot 2022-10-17 at 1.10.50 PM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SUMMARY.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/faq.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-mechanics/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-mechanics/structure-variation-or-animation.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-roadmap.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/the-focusbuild-genesis-bundle-nft.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tokenomics-and-revenue-model.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Timer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/7.5.1/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/7.5.1/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/7.5.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/7.5.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/7.5.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/7.5.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gradle-plugin/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gradle-plugin/.gradle/7.5.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gradle-plugin/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gradle-plugin/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-gradle-plugin/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native-gradle-plugin/.gradle/file-system.probe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,12 +31,15 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2G92uWSG8rbF2VpvbpGgDxJWpoL" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
@@ -58,5 +57,19 @@
       <updated>1665786701626</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

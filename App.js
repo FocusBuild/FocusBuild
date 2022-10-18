@@ -1,12 +1,13 @@
-import React, { Component } from 'react';
-import { Text } from 'react-native';
+import React, {Component}  from "react";
+import { Button, Text, View } from "react-native";
+import Timer from './Timer'
 
-class Cat extends Component {
-  render() {
+class App extends Component {
+  render () {
     return (
-      <Text>Hello, I am your cat!</Text>
-    );
+      <View clasName ='App'>
+        <Timer startCount = '1000'/>
+      </View>
+    )
   }
 }
-
-export default Cat;

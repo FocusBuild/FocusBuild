@@ -1,116 +1,72 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- *
- * @format
- * @flow strict-local
- */
+import React, { useState, useEffect } from 'react';
+import { StyleSheet, Text, View, StatusBar, TouchableOpacity, Dimensions,Button} from 'react-native';
 
-import React from 'react';
-import type {Node} from 'react';
-import {
-  SafeAreaView,
-  ScrollView,
-  StatusBar,
-  StyleSheet,
-  Text,
-  useColorScheme,
-  View,
-} from 'react-native';
+const App = () => {
+  const [secondsLeft, setsecondsLeft]= useState(3601); //currently hardcoded. should be inputable.
+  const [timerOn, setTimerOn] = useState(false);
+  var counter = 0;
+  var timeleft = 60;
+  setInterval(timeIt, 1000); //calls timeIt every second, which increases the counter.
 
-import {
-  Colors,
-  DebugInstructions,
-  Header,
-  LearnMoreLinks,
-  ReloadInstructions,
-} from 'react-native/Libraries/NewAppScreen';
 
-/* $FlowFixMe[missing-local-annot] The type annotation(s) required by Flow's
- * LTI update could not be added via codemod */
-const Section = ({children, title}): Node => {
-  const isDarkMode = useColorScheme() === 'dark';
+  useEffect(() => {
+    if(timerOn) timeIt();
+
+    else //stop timer 
+
+    return () => {
+      //stop time timer
+    }
+  }, [timerOn]);
+
+  const timeIt = () => {
+    counter + 1;
+    
+
+    //run  timer
+  }
+
+  const clockify = () => {
+    let hours = Math.floor(secondsLeft / 60 / 60);
+    let mins = Math.floor((secondsLeft / 60) % 60);
+    let seconds = Math.floor(secondsLeft % 60);
+
+    let displayHours = hours < 10  ?  "0" + hours : hours;   
+    let displayMinutes = mins < 10  ? "0" + mins : mins;
+    let displaySeconds = seconds < 10  ? "0" + seconds : seconds;
+
+    return {
+      displayHours,
+      displayMinutes,
+      displaySeconds,
+    }
+  }
+
   return (
-    <View style={styles.sectionContainer}>
-      <Text
-        style={[
-          styles.sectionTitle,
-          {
-            color: isDarkMode ? Colors.white : Colors.black,
-          },
-        ]}>
-        {title}
-      </Text>
-      <Text
-        style={[
-          styles.sectionDescription,
-          {
-            color: isDarkMode ? Colors.light : Colors.dark,
-          },
-        ]}>
-        {children}
-      </Text>
+    <View style={styles.container}>
+      <Text style={styles.time}> counter </Text>
+      <Button title = "Build" onPress={() => setTimerOn((current) => !current)} > </Button>
     </View>
   );
 };
 
-const App: () => Node = () => {
-  const isDarkMode = useColorScheme() === 'dark';
+// {clockify().displayHours} Hours {clockify().displayMinutes} Minutes {clockify().displaySeconds} Seconds
 
-  const backgroundStyle = {
-    backgroundColor: isDarkMode ? Colors.darker : Colors.lighter,
-  };
+const styles = StyleSheet.create ({
+  container: {
+    backgroundColor: '#000',
+    justifyContent: 'center',
+    alignItems: 'center',
+    flex: 1,
 
-  return (
-    <SafeAreaView style={backgroundStyle}>
-      <StatusBar
-        barStyle={isDarkMode ? 'light-content' : 'dark-content'}
-        backgroundColor={backgroundStyle.backgroundColor}
-      />
-      <ScrollView
-        contentInsetAdjustmentBehavior="automatic"
-        style={backgroundStyle}>
-        <Header />
-        <View
-          style={{
-            backgroundColor: isDarkMode ? Colors.black : Colors.white,
-          }}>
-          <Section title="Welcome to Focus Build">
-            the first blockchain based productivity application
-          </Section>
-          <Section title="See Your Changes">
-            <ReloadInstructions />
-          </Section>
-          <Section title="Debug">
-            <DebugInstructions />
-          </Section>
-          <Section title="Learn More">
-            test test test edit
-          </Section>
-          <LearnMoreLinks />
-        </View>
-      </ScrollView>
-    </SafeAreaView>
-  );
-};
+  },
+  time: {
+    color: '#fff',
+    textAlign: 'center',
+    fontSize: 30,
+  }
 
-const styles = StyleSheet.create({
-  sectionContainer: {
-    marginTop: 32,
-    paddingHorizontal: 24,
-  },
-  sectionTitle: {
-    fontSize: 24,
-    fontWeight: '600',
-  },
-  sectionDescription: {
-    marginTop: 8,
-    fontSize: 18,
-    fontWeight: '400',
-  },
-  highlight: {
-    fontWeight: '700',
-  },
 });
 
 export default App;
+ 

@@ -14,14 +14,6 @@ Concentrate is FocusBuild's in-game currency, used to upgrade Builder Attributes
 
 **Initial Supply: 10,000,000**
 
-**Concentrate emissions are solely minted from productive FocusBuild time.** Thus there is an uncapped supply of Concentrate to incentivize productivity and adoption in perpetuity.  ****  This is balanced by a decreasing rate of inflation over time. The rate of emissions steadily decrease based on the total productive time users have spent using FocusBuild, meaning that as more user adoptions grow and more time is spent productive, base earning rates will decrease. There is a Daily Emissions Cap to account for large changes in productive minutes made.
-
-We have introduced several mechanisms to decrease the rate of inflation of the token, and to constrict the circulating supply.&#x20;
-
-1.  **Concentrate Minting Difficulty.**&#x20;
-
-    Newly minted Concentrate for every **100 productive hours 6000 minutes, with daily emissions capped.**
-
 **Burning Mechanisms**
 
 * Users spend Concentrate - when users spend Concentrate in-app, it is burned.

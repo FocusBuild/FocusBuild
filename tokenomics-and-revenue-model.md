@@ -34,5 +34,4 @@ Concentrate is FocusBuild's in-game currency used to upgrade Builder Attributes,
 ### Multi-Avenue Revenue Model \[Under Construction]&#x20;
 
 * Base Builders
-* Ad-Revenue
-* dApp Partnerships
+* Ad-Revenue from dApp Partnerships or other Solana ecosystem Partnerships

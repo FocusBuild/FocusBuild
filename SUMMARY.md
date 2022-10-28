@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introducing FocusBuild](README.md)
+* [Introducing FocusBuild test](README.md)
 * [Game Mechanics](game-mechanics/README.md)
   * [Builders](game-mechanics/builders.md)
   * [City Map](game-mechanics/city-map.md)

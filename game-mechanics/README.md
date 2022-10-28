@@ -41,7 +41,7 @@ Rarities determine Attribute values given the current Attribute Level. For examp
 
 ## Cities
 
-Cities are a visually appealing, tangible representations of the progress one's made focusing, stored on-chain! When a structure is built, they appear in the Inventory. From there, users place the structure onto their map, further developing their city.&#x20;
+Cities are a visually appealing, tangible representations of the progress one's made focusing, stored on-chain. When a structure is built, they appear in the Inventory. From there, users place the structure onto their map, further developing their city.&#x20;
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-10-12 at 2.34.43 PM.png" alt=""><figcaption><p>Drag and Drop City Map Concept</p></figcaption></figure>
 

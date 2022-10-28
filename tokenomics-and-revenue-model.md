@@ -8,7 +8,7 @@ description: The information below is subject to change.
 
 ### Use Cases
 
-Concentrate is FocusBuild's in-game currency, used to upgrade Builder Attributes and unlock premium in-game features.&#x20;
+Concentrate is FocusBuild's in-game currency used to upgrade Builder Attributes, Fast Rest, and unlock premium in-game features.
 
 ### **Supply**&#x20;
 

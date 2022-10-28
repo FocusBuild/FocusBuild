@@ -8,7 +8,7 @@ When a Builder reaches a set amount of accumulated FocusBuild Time associated wi
 
 
 
-<figure><img src="../.gitbook/assets/Screen Shot 2022-10-28 at 3.13.48 PM.png" alt=""><figcaption><p><strong>Builder Page</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screen Shot 2022-10-28 at 3.13.48 PM.png" alt=""><figcaption><p><strong>Builder Page - FocusBuild Prototype</strong></p></figcaption></figure>
 
 ### **Attributes**
 

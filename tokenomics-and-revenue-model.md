@@ -31,6 +31,8 @@ Concentrate is FocusBuild's in-game currency used to upgrade Builder Attributes,
 | Airdrop              | 10% |
 | Focus Build Treasury | 18% |
 
-### Multi-Avenue Revenue Model
+### Multi-Avenue Revenue Model \[Under Construction]&#x20;
 
-Incorporating ad-based revenue&#x20;
+* Base Builders
+* Ad-Revenue
+* dApp Partnerships

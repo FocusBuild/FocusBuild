@@ -20,7 +20,14 @@ When a Builder reaches a set amount of accumulated FocusBuild Time associated wi
 
 An immutable characteristic of Builders and are divided into 4 groups&#x20;
 
-1. **Common**
+| Rarity     | Chance of Minting |
+| ---------- | ----------------- |
+| Common     | 84%               |
+| Uncommon   | 10%               |
+| Rare       | 5%                |
+| Ultra Rare | 1%                |
+
+1. **Common - 40% Chance of Minting**
 2. **Uncommon**
 3. **Rare**&#x20;
 4. **Ultra Rare**
@@ -44,6 +51,10 @@ Rarities determine Attribute values given the current Attribute Level. For examp
 | Common | 1     | Energy    | 30 min.  |
 | Common | 2     | Energy    | 35 min.  |
 |        |       |           |          |
+
+### Base Builders&#x20;
+
+Base Builders can be minted for **.1 SOL** for users who want to enjoy the application strictly without Concentrate rewards and City Tier upgrading. While Base Builders can still create structures to develop their City, **they will not earn Concentrate,  do not have attributes,** and the **Base Focus Build Time** for the City Structure is **not counted when upgrading City Tier.** &#x20;
 
 ## Cities
 

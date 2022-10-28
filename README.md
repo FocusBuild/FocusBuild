@@ -21,6 +21,8 @@ While most standard productivity applications aimed toward time management and l
 
 **But users' productivity data, including the valued visual reminders of their progress, are tied to an email account and connected to Forest the **_**company**_**, creating risks for erasure and censorship.**&#x20;
 
+****<img src=".gitbook/assets/Untitled Diagram.drawio(1) (3).png" alt="" data-size="original">****
+
 ### **Project Description**
 
 **FocusBuild** is the first productivity mobile application that upgrades this proven concept by bringing this value on-chain, so users will always be able to access their visual progress from wherever and whenever, without any permission. In addition, it is also the first mobile application to incentivize healthy habits with one's phone through it's native cryptocurrency - an opportunity only viable through a trustless, decentralized ledger. While remaining primarily a productivity application, FocusBuild adds an additional layer of enjoyability via strategic city-building, and uses an NFT-system and Game-Fi mechanics inspired by existing "x-to-earn" models, with a strong emphasis on **long-term usability and enjoyability**. See [Tokenomics and Revenue Model.](tokenomics-and-revenue-model.md)

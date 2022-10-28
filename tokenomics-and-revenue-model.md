@@ -2,7 +2,7 @@
 description: The information below is subject to change.
 ---
 
-# Tokenomics and Revenue Model
+# Tokenomics
 
 ## **Concentrate**&#x20;
 
@@ -20,8 +20,6 @@ Concentrate is FocusBuild's in-game currency used to upgrade Builder Attributes,
 * FocusBuild Foundation Buy and Burn - A certain percentage of revenue made in-app will be used to burn buy and burn Concentrate.
 
 ### **Distribution**
-
-****
 
 | Distribution         |     |
 | -------------------- | --: |

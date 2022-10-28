@@ -33,11 +33,17 @@ Rarities determine Attribute values given the current Attribute Level. For examp
 
 **Night** - Optimal Concentrate Earnings during FocusBuild's 45 minutes or greater.
 
-### **Class | Attributes Levels** &#x20;
+### **Rarity x Attributes Statistics** &#x20;
 
 #### **Builder Level determine minimum and maximum possible attribute levels.**&#x20;
 
 #### **\[Table Under Construction]**
+
+| Rarity | Level | Attribute | Value    |
+| ------ | ----- | --------- | -------- |
+| Common | 1     | Energy    | 30 min.  |
+| Common | 2     | Energy    | 35 min.  |
+|        |       |           |          |
 
 ## Cities
 

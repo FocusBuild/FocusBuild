@@ -14,7 +14,7 @@ When a Builder reaches a set amount of accumulated FocusBuild Time associated wi
 
 1. **Energy** - Determines the max capacity of FocusBuild the Builder has before it must Rest.&#x20;
 2. **Earning Rate** - Determines the base rate at which Builder earns Concentrate during Focus Build.
-3. **Rest Time** - How much time the Builder must Rest before doing a new FocusBuild. Concentrate can be spent to fully rest a builder immediately.&#x20;
+3. **Rest Time** - How much time the Builder must Rest before doing a new FocusBuild. Concentrate can be spent to fully rest a builder immediately (Fast Rest).&#x20;
 
 ### _Rarity_
 

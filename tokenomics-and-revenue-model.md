@@ -19,7 +19,7 @@ Concentrate is FocusBuild's in-game currency used to upgrade Builder Attributes,
 * Users spend Concentrate - when users spend Concentrate in-app, it is burned.
 * FocusBuild Foundation Buy and Burn - A certain percentage of revenue made in-app will be used to burn buy and burn Concentrate.
 
-### **Distribution:**
+### **Distribution**
 
 ****
 

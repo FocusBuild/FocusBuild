@@ -1,16 +1,20 @@
 # Game Mechanics
 
-## Builders - Attributes, Classes, and Types
+## Builders - Attributes, Rarity, and Types
 
-<figure><img src="../.gitbook/assets/Screen Shot 2022-10-12 at 2.33.28 PM.png" alt=""><figcaption><p>Builder Selection Module</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screen Shot 2022-10-12 at 2.33.28 PM.png" alt=""><figcaption><p>Builder Selection Module <em>Attributes</em></p></figcaption></figure>
 
-### _Attributes_
+### Overall Level
 
-1. **Energy** - Determines how much FocusBuild time Builder has before it must Rest&#x20;
-2. **Earning Rate** - Determines the base rate at which Builder earns Concentrate during Focus Build
-3. **Rest Time** - How much time the Builder must Rest before doing a new FocusBuild.
+When a Builder reaches a set amount of accumulated FocusBuild Time associated with it, users can spend Concentrate to increase it's Overall Level. As a result, users chose which Attribute to level up.
 
-### _Classes_
+### **Attributes**
+
+1. **Energy** - Determines the max capacity of FocusBuild the Builder has before it must Rest.&#x20;
+2. **Earning Rate** - Determines the base rate at which Builder earns Concentrate during Focus Build.
+3. **Rest Time** - How much time the Builder must Rest before doing a new FocusBuild. Concentrate can be spent to fully rest a builder immediately.&#x20;
+
+### _Rarity_
 
 An immutable characteristic of Builders and are divided into 4 groups&#x20;
 
@@ -19,7 +23,7 @@ An immutable characteristic of Builders and are divided into 4 groups&#x20;
 3. **Rare**&#x20;
 4. **Ultra Rare**
 
-They set the minimum and maximum Attribute levels of the Builder.
+Rarities determine Attribute values given the current Attribute Level. For example, a Rare Builder with a Level 5 Energy Attribute will always have higher Energy than a Common Builder with a Level 5 Energy Attribute, etc.&#x20;
 
 ### _Types_
 

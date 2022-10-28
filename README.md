@@ -19,17 +19,27 @@ While most standard productivity applications aimed toward time management and l
 
 ### **Project Description**
 
-**FocusBuild** is the first productivity mobile application that upgrades this proven concept by bringing this value on-chain, so users will always be able to access their visual progress from wherever and whenever, without any permission. In addition, it is also the first mobile application to incentivize healthy habits with one's phone, which is only viable through a trustless, decentralized ledger. FocusBuild utilizes an NFT system and Game-Fi mechanics inspired by existing "x-to-earn" models, but with a strong emphasis on **long-term usability and enjoyability**. See [Tokenomics and Revenue Model. ](tokenomics-and-revenue-model.md)\[In Progress]
+**FocusBuild** is the first productivity mobile application that upgrades this proven concept by bringing this value on-chain, so users will always be able to access their visual progress from wherever and whenever, without any permission. In addition, it is also the first mobile application to incentivize healthy habits with one's phone through it's native cryptocurrency - an opportunity only viable through a trustless, decentralized ledger. While remaining primarily a productivity application, FocusBuild adds an additional layer of enjoyability via strategic city-building, and uses an NFT-system and Game-Fi mechanics inspired by existing "x-to-earn" models, with a strong emphasis on **long-term usability and enjoyability**. See [Tokenomics and Revenue Model. ](tokenomics-and-revenue-model.md)\[In Progress]
 
-Users use their _**Builder** -_ a unique non-fungible token - to build _**structures**_ during a FocusBuild session: a predetermined amount of time where the user doesn't leave the application. When a FocusBuild session is completed successfully, users are rewarded the _**structure**_ they’ve chosen. _**Structures**_ serve as a tangible reminder of their success without distraction stored on-chain.
+### **Application Use**
+
+Users select their _**Builder** -_ a unique non-fungible token with various _**attributes**_** ** - to build _**structures**_ during a FocusBuild.&#x20;
+
+FocusBuild = an amount of time intentionally set by the user where the user doesn't leave the application, else their structure is demolished.&#x20;
+
+When a FocusBuild session is completed _successfully_, users are rewarded the _**structure**_ they’ve chosen which serve as a tangible reminder of their time without distraction **stored on-chain.**
 
 <figure><img src=".gitbook/assets/Screen Shot 2022-10-12 at 2.33.17 PM.png" alt=""><figcaption><p>Builder and Attributes</p></figcaption></figure>
 
-Structures are placed onto the _**City Map**_ - a unique non-fungible token that displays their historical productivity progress via the structures that have been built and placed. When a FocusBuild session is completed successfully, users also earn FocusBuild’s in-game cryptocurrency, _**Concentrate**_. _**Concentrate**_ is spent on:
+Structures are placed onto the _**City Map**_ - a unique non-fungible token that displays the user's historical productivity progress via the structures that have been built and placed and stores their productivity data (i.e. total time and structures). When a FocusBuild session is completed successfully, users also earn FocusBuild’s in-game cryptocurrency, _**Concentrate**_. _**Concentrate**_ is spent on:
 
 1. Leveling up _Builder Attributes_ to make them more efficient at generating structures and earning more Concentrate.
 2. Unlocking unique in-game-features, such as new or premium structures.
 
-Once adequately developed by _**structures**_ and total accumulated FocusBuild time, _**Cities**_ can be _staked and activated_ resulting in a boost on the _**Concetrate**_ earned by a Builder in a FocusBuild. Cities cannot be rapidly developed simply by paying for Concentrate because structures must be built during FocusBuild.
+Once adequately developed by _**structures**_ _and_ total accumulated FocusBuild time from non-Base Builders \[see description below], _**Cities**_ can be upgraded to the next **Tier,** allowing them to be _staked and activated_ in the _City Staking Pool_ resulting in a boost on the _**Concentrate**_ earned by a Builder during FocusBuild. Cities cannot be rapidly developed simply by paying for Concentrate because structures must be built during FocusBuild, and Cities can only adequately develop via a combination of total accumulated FocusBuild time in addition to structures.&#x20;
 
 For more details on _**Builders**_ and _**Cities**_, continue to [Game Mechanics.](game-mechanics/)
+
+**Base Builder NFTs**&#x20;
+
+Base Builders can be minted for **.1 SOL** for users who want to enjoy the application strictly without Concentrate rewards and City Tier upgrading. While Base Builders can still create structures to develop their City, **they will not earn Concentrate,  do not have attributes,** and the **Base Focus Build Time** for the City Structure is **not counted when upgrading City Tier.** &#x20;

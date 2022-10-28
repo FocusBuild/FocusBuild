@@ -2,7 +2,7 @@
 
 * [Introducing FocusBuild](README.md)
 * [Game Mechanics](game-mechanics/README.md)
-  * [Structure Variation | Animation](game-mechanics/structure-variation-or-animation.md)
+  * [Structure Variation | 3D Animation Design](game-mechanics/structure-variation-or-animation.md)
 * [FAQ](faq.md)
 * [Tokenomics](tokenomics-and-revenue-model.md)
 * [Tech](tech/README.md)

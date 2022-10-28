@@ -23,7 +23,7 @@ While most standard productivity applications aimed toward time management and l
 
 ### **Project Description**
 
-**FocusBuild** is the first productivity mobile application that upgrades this proven concept by bringing this value on-chain, so users will always be able to access their visual progress from wherever and whenever, without any permission. In addition, it is also the first mobile application to incentivize healthy habits with one's phone through it's native cryptocurrency - an opportunity only viable through a trustless, decentralized ledger. While remaining primarily a productivity application, FocusBuild adds an additional layer of enjoyability via strategic city-building, and uses an NFT-system and Game-Fi mechanics inspired by existing "x-to-earn" models, with a strong emphasis on **long-term usability and enjoyability**. See [Tokenomics and Revenue Model. ](tokenomics-and-revenue-model.md)\[In Progress]
+**FocusBuild** is the first productivity mobile application that upgrades this proven concept by bringing this value on-chain, so users will always be able to access their visual progress from wherever and whenever, without any permission. In addition, it is also the first mobile application to incentivize healthy habits with one's phone through it's native cryptocurrency - an opportunity only viable through a trustless, decentralized ledger. While remaining primarily a productivity application, FocusBuild adds an additional layer of enjoyability via strategic city-building, and uses an NFT-system and Game-Fi mechanics inspired by existing "x-to-earn" models, with a strong emphasis on **long-term usability and enjoyability**. See [Tokenomics and Revenue Model.](tokenomics-and-revenue-model.md)
 
 ### **Application Use**
 

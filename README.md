@@ -7,7 +7,7 @@ coverY: -158.22665267576076
 
 **FocusBuild** is the first blockchain-based productivity dApp and city-building game, built for the [Solana Mobile Stack](https://solanamobile.com/).
 
-Walk through the current design [prototype](https://www.figma.com/proto/KAMiD8jZHfC8so6ZKsobGZ/FocusBuild?node-id=293%3A716\&scaling=min-zoom\&page-id=89%3A495\&starting-point-node-id=293%3A716) or view a video of it below. Track Github updates [here](https://github.com/FocusBuild/FocusBuild).
+Walk through the current design [prototype](https://www.figma.com/proto/KAMiD8jZHfC8so6ZKsobGZ/FocusBuild?node-id=293%3A716\&scaling=min-zoom\&page-id=89%3A495\&starting-point-node-id=293%3A716) or view a video of it below.&#x20;
 
 {% file src=".gitbook/assets/Focus Build Prototype Presentation.mp4" %}
 Design Prototype 10.27.2022
@@ -31,7 +31,7 @@ This very simple concept, coupled with appealing graphics and users' wide select
 
 ### **Using the App**
 
-Users select their _**Builder** -_ a unique non-fungible token with various _**attributes**_** ** - to build _**structures**_ during a FocusBuild.&#x20;
+Users select their _**Builder** -_ a unique _non-fungible token_ with various _**attributes**_** ** - to build _**structures**_ during a FocusBuild.&#x20;
 
 FocusBuild = an amount of time intentionally set by the user where the user doesn't leave the application, else their structure is demolished.&#x20;
 

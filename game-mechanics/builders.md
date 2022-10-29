@@ -35,8 +35,6 @@ Rarities determine Attribute values given the current Attribute Level. For examp
 
 ### **Rarity x Attributes Statistics** &#x20;
 
-#### **Builder Level determine minimum and maximum possible attribute levels.**&#x20;
-
 #### **\[Table Under Construction]**
 
 | Rarity | Level | Attribute | Value    |

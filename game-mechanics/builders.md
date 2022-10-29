@@ -1,14 +1,12 @@
 # Builders
 
-## Attributes, Rarity, and Types
-
 ### Overall Level
 
 When a Builder reaches a set amount of accumulated FocusBuild Time associated with it, users can spend Concentrate to increase it's Overall Level. As a result, users chose which Attribute to level up.
 
 
 
-<figure><img src="../.gitbook/assets/Screen Shot 2022-10-28 at 3.13.48 PM.png" alt=""><figcaption><p><strong>Builder Page - FocusBuild Prototype</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screen Shot 2022-10-28 at 3.13.48 PM.png" alt=""><figcaption><p><strong>Crop from Builder Page</strong></p></figcaption></figure>
 
 ### **Attributes**
 

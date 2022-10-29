@@ -1,6 +1,6 @@
 # Builders
 
-## Builders - Attributes, Rarity, and Types
+## Attributes, Rarity, and Types
 
 ### Overall Level
 

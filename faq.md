@@ -6,7 +6,7 @@ The goal for FocusBuild is to create a top-tier, blockchain-based mobile applica
 
 **Q: Adoption of the Solana Phone will be slow. Will the dApp only be available for people with the phone?**&#x20;
 
-We plan to launch a version of the game that is available for any Android user in order to gain rapid adoption and to prove our idea, and which doesn't have Smart Contracts. Active players may be eligible for an airdrop of the FocusBuild Genesis Bundle which includes a City and NFT, as well as Concentrate they've earned in-App at the Token Generation Event.
+Yes, but we are keen to launch a version of the game that is available for any Android user in order to gain rapid adoption and to prove our idea, one without Smart Contracts. Active players may be eligible for an airdrop of the FocusBuild Genesis Bundle which includes a City and NFT, as well as Concentrate they've earned in-App at the Token Generation Event.
 
 **Q: With the variety of  structures you build, do they serve unique purposes? Or are they fully aesthetic?**
 

@@ -38,8 +38,8 @@ Yes, you can still use the timer for 60 minutes. In this case, the Builder will 
 
 **Q: Where is structure Data stored when in Inventory state and when on Map state? Can you hack the timer to spam create many structures?**
 
-STEPN was hard to hack because it used location data. Hackers will try and find a way to spam mint structures. There is a decentralized security measure that restricts people from hacking the timer if they found a way. We verify against block-start time and end-times to ensure that two Structures aren’t built by the same Builder at the same time. This is what differentiates us from Forest, and allows us the security to place real monetary value in the game. The Builder Smart Contract ensures that only one structure is built at a time.
+A project like STEPN was hard to hack because it used location data to verify user integrity. For FocusBuild hackers may try and find a way to spam mint structures. There is a decentralized security measure that restricts people from hacking the timer if they found a way. We aim to verify that Structures aren’t built by the same Builder at the same time. The Builder Smart Contract ensures that only one structure is built at a time.This is what differentiates us from Forest, and allows us the security to place real monetary value in the game.&#x20;
 
-**Q: Man, this is a sh\*t-ton of info. I thought this was a productivity app!**
+**Q: Man, this is a  lot of info. I thought this was a productivity app!**
 
 The best way to play the game is to not think about it too much!

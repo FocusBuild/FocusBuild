@@ -28,7 +28,7 @@ Users spend Concentrate to level up their Builder. Once done, they are given a p
 
 Cities have a minimal amount of structures and time accumulated into them. Please see the City Tier Table.
 
-**Q: Is there a Durability component to Builders? As in, does its earning rate for Concentrate decrease if the Builder has been used many times?**
+**Q: Is there a Durability component to Builders? As in, does its earning rate decrease if the Builder has been used many times?**
 
 No. At this time, Builders' earnings base rate do not decrease from their current level.  However, When Energy is depleted, Builder’s must Rest. Users can Rest their Builder by waiting a certain period of time determined by their Rest, or by spending Concentrate tokens.
 

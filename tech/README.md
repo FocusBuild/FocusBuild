@@ -1,2 +1,2 @@
-# Tech \[Under Construction]
+# Tech
 

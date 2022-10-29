@@ -31,7 +31,7 @@ This very simple concept, coupled with appealing graphics and users' wide select
 
 ### **Using the App**
 
-Users select their _**Builder** -_ a unique non-fungible token with various _**attributes**_** ** - to build _**structures**_ during a FocusBuild.&#x20;
+Users select their _**Builder** -_ a unique _non-fungible token_ with various _**attributes**_** ** - to build _**structures**_ during a FocusBuild.&#x20;
 
 FocusBuild = an amount of time intentionally set by the user where the user doesn't leave the application, else their structure is demolished.&#x20;
 

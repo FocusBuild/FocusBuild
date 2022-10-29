@@ -8,4 +8,4 @@
 
 **3D Animation Design Potential**
 
-3D Design Concepts for Structures below once completed.&#x20;
+3D Design Concepts for Structures below.&#x20;

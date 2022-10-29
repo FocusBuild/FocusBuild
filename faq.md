@@ -24,7 +24,7 @@ Users spend Concentrate to level up their Builder. Once done, they are given a p
 2. Earning Rate - Determines the base rate at which Builder earns Concentrate during Focus Build
 3. Rest Time - How much time the Builder must Rest before doing a new FocusBuild.
 
-**Q: Can a user game the system it by doing many small focus sessions to build many structures, rapidly developing my city.**
+**Q: Can a user "game the system" by doing many small focus sessions to build many structures, rapidly developing the City?**
 
 Cities have a minimal amount of structures and time accumulated into them. Please see the City Tier Table.
 

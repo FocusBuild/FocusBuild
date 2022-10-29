@@ -29,7 +29,7 @@ This very simple concept, coupled with appealing graphics and users' wide select
 
 **FocusBuild** is the first productivity mobile application that upgrades this proven concept by bringing this value on-chain, so users will always be able to access their visual progress from wherever and whenever, without any permission. In addition, it is also the first mobile application to incentivize healthy habits with one's phone through it's native cryptocurrency - an opportunity only viable through a trustless, decentralized ledger. While remaining primarily a productivity application, FocusBuild adds an additional layer of enjoyability via strategic city-building, and uses an NFT-system and Game-Fi mechanics inspired by existing "x-to-earn" models, with a strong emphasis on **long-term usability and enjoyability**. See [Tokenomics and Revenue Model.](tokenomics-and-revenue-model.md)
 
-### **Application Use**
+### **Using the App**
 
 Users select their _**Builder** -_ a unique non-fungible token with various _**attributes**_** ** - to build _**structures**_ during a FocusBuild.&#x20;
 
@@ -44,7 +44,7 @@ Structures are placed onto the _**City Map**_ - a unique non-fungible token that
 1. Leveling up _Builder Attributes_ to make them more efficient at generating structures and earning more Concentrate.
 2. Unlocking unique in-game-features, such as new or premium structures.
 
-Once adequately developed by _**structures**_ _and_ total accumulated FocusBuild time from non-Base Builders \[see description below], _**Cities**_ can be upgraded to the next **Tier,** allowing them to be _staked and activated_ in the _City Staking Pool_ resulting in a boost on the _**Concentrate**_ earned by a Builder during FocusBuild. Cities cannot be rapidly developed simply by paying for Concentrate because structures must be built during FocusBuild, and Cities can only adequately develop via a combination of total accumulated FocusBuild time in addition to structures.&#x20;
+Once developed by _**structures**_ _and_ total accumulated FocusBuild time from non-Base Builders \[see description below], _**Cities**_ can be upgraded to the next **Tier,** allowing them to be _staked and activated_ in the _City Staking Pool_ resulting in a boost on the _**Concentrate**_ earned by a Builder during FocusBuild. Cities cannot be rapidly developed simply by paying for Concentrate because structures must be built during FocusBuild, and Cities can only adequately develop via a combination of total accumulated FocusBuild time in addition to structures.&#x20;
 
 For more details on _**Builders**_ and _**Cities**_, continue to [Game Mechanics.](game-mechanics/)
 

@@ -6,7 +6,7 @@ When a Builder reaches a set amount of accumulated FocusBuild Time associated wi
 
 
 
-<figure><img src="../.gitbook/assets/Screen Shot 2022-10-28 at 3.13.48 PM.png" alt=""><figcaption><p><strong>Crop from Builder Page</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screen Shot 2022-10-28 at 3.13.48 PM.png" alt=""><figcaption><p><strong>Builder Page</strong></p></figcaption></figure>
 
 ### **Attributes**
 
@@ -24,11 +24,6 @@ An immutable characteristic of Builders and are divided into 4 groups&#x20;
 | Uncommon   | 10%               |
 | Rare       | 5%                |
 | Ultra Rare | 1%                |
-
-1. **Common - 40% Chance of Minting**
-2. **Uncommon**
-3. **Rare**&#x20;
-4. **Ultra Rare**
 
 Rarities determine Attribute values given the current Attribute Level. For example, a Rare Builder with a Level 5 Energy Attribute will always have higher Energy than a Common Builder with a Level 5 Energy Attribute, etc.&#x20;
 

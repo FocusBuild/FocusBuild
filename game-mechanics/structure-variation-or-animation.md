@@ -4,16 +4,20 @@
 
 &#x20;**The Category of Structure is determined by time, but they specific structure that the Builder creates within the category is  random.**  After a successful FocusBuild session, users can chose to spend Concentrate in order to select the specific structure they wanted within their Category.
 
-| FocusBuild Time | Roads                | Examples                                  |
-| --------------- | -------------------- | ----------------------------------------- |
-| <20 minutes     | Small Structures     | roads, custom signs, street lights        |
-| 20-45 minutes   | Medium Structures    | single story resident homes               |
-| 45 - 90 minutes | Large Structures     | 2-3 story buildings, highways             |
-| > 90 minutes    | Very Large Structure | libraries, hospitals, 4+ story buildings, |
+| FocusBuild Time | Roads                | Examples                                      |
+| --------------- | -------------------- | --------------------------------------------- |
+| <20 minutes     | Small Structures     | roads, custom signs, street lights            |
+| 20-45 minutes   | Medium Structures    | single story resident homes, small restaurant |
+| 45 - 90 minutes | Large Structures     | 2-3 story buildings, highways                 |
+| > 90 minutes    | Very Large Structure | libraries, hospitals, 4+ story buildings,     |
 
 
 
-## **Special Aesthetic Categories**&#x20;
+## **Aesthetic Categories**&#x20;
+
+The goal for special aesthetics categories is to incorporate randomness for the visual look of the structure that's created by builders, and introduce visual design diversity for Cities. So far, there are two aesthetics concepts for structures: modern, which specialize into cyberpunk, and medieval
+
+
 
 
 

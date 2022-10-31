@@ -1,6 +1,6 @@
 # Builders
 
-_UPDATE: Earning Levels for Builders have been scrapped. In order to prioritize long-term enjoyability, we want to avoid early players having a strictly unfair advantage of increasing their rate of Concentrate earned, which would increasingly disincentize new users from playing. Instead, we decide to go the direction of increasing builder and structure diversity._
+_UPDATE: Earning Levels for Builders have been scrapped. In order to prioritize long-term enjoyability, we want to avoid early players having a strictly unfair advantage of increasing their rate of Concentrate earned, which would increasingly disincentize new users from playing. Instead, we decide to go the direction of increasing Builder and Structure diversity._
 
 ### Overall Level
 
@@ -24,7 +24,7 @@ When a Builder reaches a set amount of accumulated FocusBuild Time associated wi
 
 ### _Attribute Rarity_
 
-An immutable characteristic of Builders and are divided into 4 groups&#x20;
+An immutable characteristic of Builders and divided into 4 groups&#x20;
 
 | Rarity     | Chance of Minting |
 | ---------- | ----------------- |

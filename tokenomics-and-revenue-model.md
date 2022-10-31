@@ -2,13 +2,19 @@
 description: The information below is subject to change.
 ---
 
-# Tokenomics
+# Tokenomics \[Under Construction]
 
 ## **Concentrate**&#x20;
 
 ### Use Cases
 
-Concentrate is FocusBuild's in-game currency used to upgrade Builder Attributes, Fast Rest, and unlock premium in-game features.
+Concentrate is FocusBuild's in-game currency used for:
+
+* Upgrading Builder Attributes (i.e. Energy, Rest)
+* Selecting a structure at the end of a FocusBuild session if the created Structure or its  Aesthetic isn't wanted.
+* Speeding up a Rest session of a Builder.
+* Unlocking Premium Features&#x20;
+  * Special Structures
 
 ### **Supply**&#x20;
 
@@ -17,7 +23,7 @@ Concentrate is FocusBuild's in-game currency used to upgrade Builder Attributes,
 **Burning Mechanisms**
 
 * Users spend Concentrate - when users spend Concentrate in-app, it is burned.
-* FocusBuild Foundation Buy and Burn - A certain percentage of revenue made in-app will be used to burn buy and burn Concentrate.
+* Buy and Burn - A certain percentage of revenue made in-app will be used to burn buy and burn Concentrate.
 
 ### **Distribution**
 

@@ -12,6 +12,6 @@ Cities are a visually appealing, tangible representations - in isometric view - 
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-10-31 at 2.53.22 PM.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
-
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>

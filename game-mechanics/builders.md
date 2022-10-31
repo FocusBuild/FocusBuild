@@ -11,10 +11,14 @@ When a Builder reaches a set amount of accumulated FocusBuild Time associated wi
 ### **Attributes**
 
 1. **Energy** - Determines the max capacity of FocusBuild the Builder has before it must Rest.&#x20;
-2. **Earning Rate** - Determines the base rate at which Builder earns Concentrate during Focus Build.
-3. **Rest Time** - How much time the Builder must Rest before doing a new FocusBuild. Concentrate can be spent to fully rest a builder immediately (Fast Rest).&#x20;
+2. **Rest Time** - How much time the Builder must Rest before doing a new FocusBuild. Concentrate can be spent to fully rest a builder immediately (Fast Rest).&#x20;
+3. ~~**Earning Rate** - Determines the base rate at which Builder earns Concentrate during Focus Build.~~    &#x20;
 
-### _Rarity_
+&#x20;       **Specialization -** Determines the special aesthetic category of the structures the builder builds.&#x20;
+
+****
+
+### _Attribute Rarity_
 
 An immutable characteristic of Builders and are divided into 4 groups&#x20;
 
@@ -26,6 +30,10 @@ An immutable characteristic of Builders and are divided into 4 groups&#x20;
 | Ultra Rare | 1%                |
 
 Rarities determine Attribute values given the current Attribute Level. For example, a Rare Builder with a Level 5 Energy Attribute will always have higher Energy than a Common Builder with a Level 5 Energy Attribute, etc.&#x20;
+
+### _Special Aesthetic Rarity_
+
+
 
 ### _Types_
 

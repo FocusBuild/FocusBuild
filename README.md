@@ -7,7 +7,7 @@ coverY: -158.22665267576076
 
 **FocusBuild** is the first blockchain-based productivity dApp and city-building game, built for the [Solana Mobile Stack](https://solanamobile.com/).
 
-Walk through the current design [prototype](https://www.figma.com/proto/KAMiD8jZHfC8so6ZKsobGZ/FocusBuild?node-id=293%3A716\&scaling=min-zoom\&page-id=89%3A495\&starting-point-node-id=293%3A716) or view a video of it below. Track Github updates [here](https://github.com/FocusBuild/FocusBuild).
+Walk through the app's design [prototype](https://www.figma.com/proto/KAMiD8jZHfC8so6ZKsobGZ/FocusBuild?node-id=293%3A716\&scaling=min-zoom\&page-id=89%3A495\&starting-point-node-id=293%3A716) or view a video of it below.&#x20;
 
 {% file src=".gitbook/assets/Focus Build Prototype Presentation.mp4" %}
 Design Prototype 10.27.2022
@@ -31,15 +31,15 @@ This very simple concept, coupled with appealing graphics and users' wide select
 
 ### **Using the App**
 
-Users select their _**Builder** -_ a unique non-fungible token with various _**attributes**_** ** - to build _**structures**_ during a FocusBuild.&#x20;
+Users select their _**Builder** -_ a unique _non-fungible token_ with various _**attributes**_** ** - to build _**structures**_ during a FocusBuild.&#x20;
 
 FocusBuild = an amount of time intentionally set by the user where the user doesn't leave the application, else their structure is demolished.&#x20;
 
-When a FocusBuild session is completed _successfully_, users are rewarded the _**structure**_ they’ve chosen which serve as a tangible reminder of their time without distraction **stored on-chain.**
+When a FocusBuild session is completed _successfully_, users are rewarded a random _**structure**_ determined by how long the timer was initially set for. Structures serve as a tangible reminder of users's time without distraction **stored on-chain.**
 
 <figure><img src=".gitbook/assets/Screen Shot 2022-10-12 at 2.33.17 PM.png" alt=""><figcaption><p>Builder Selection and Attributes</p></figcaption></figure>
 
-Structures are placed onto the _**City Map**_ - a unique non-fungible token that displays the user's historical productivity progress via the structures that have been built and placed and stores their productivity data (i.e. total time and structures). Along with the structure, when a FocusBuild session is completed, users also earn FocusBuild’s in-game cryptocurrency, _**Concentrate**_. _**Concentrate**_ is spent on:
+Structures are placed onto the _**City Map**_ - a non-transferrable [**soul-bound** **token**](https://www.coindesk.com/learn/what-are-soulbound-tokens-the-non-transferrable-nft-explained/) representing the user's historical productivity progress - via completed and placed structures - and stores this productivity data (i.e. total FocusBuild time and structures) on-chain. Along with the built structure, when a FocusBuild session is completed, users also earn FocusBuild’s in-game cryptocurrency, _**Concentrate**_. _**Concentrate**_ is spent on:
 
 1. Leveling up _Builder Attributes_ to make them more efficient at generating structures and earning more Concentrate.
 2. Unlocking unique in-game-features, such as new or premium structures.
@@ -52,4 +52,4 @@ For more details on _**Builders**_ and _**Cities**_, continue to [Game Mechanics
 
 **Base Builder NFTs**&#x20;
 
-Base Builders can be minted for **.1 SOL** for users who want to enjoy the application strictly without Concentrate rewards and City Tier upgrading. While Base Builders can still create structures to develop their City, **they will not earn Concentrate,  do not have attributes,** and the **Base Focus Build Time** for the City Structure is **not counted when upgrading City Tier.** &#x20;
+Base Builders can be minted for **.1 SOL** for users who want to enjoy the application strictly without Concentrate rewards and Specialized Aesthetic Categories. While Base Builders can still create structures to develop their City, **they will not earn Concentrate,  do not have attributes,** and the **Base Focus Build Time** for the City Structure is **not counted when upgrading City Tier.** &#x20;

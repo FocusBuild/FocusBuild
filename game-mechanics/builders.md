@@ -1,6 +1,6 @@
 # Builders
 
-_UPDATE: Earning Levels for Builders have been scrapped. In order to prioritize long-term enjoyability, we want to avoid early players having a strictly unfair advantage of increasing their rate of Concentrate earned, which would increasingly disincentize new users from playing._&#x20;
+_UPDATE: Earning Levels for Builders have been scrapped. In order to prioritize long-term enjoyability, we want to avoid early players having a strictly unfair advantage of increasing their rate of Concentrate earned, which would increasingly disincentize new users from playing. Instead, we decide to go the direction of increasing builder and structure diversity._
 
 ### Overall Level
 
@@ -18,7 +18,7 @@ When a Builder reaches a set amount of accumulated FocusBuild Time associated wi
 2. **Rest Time** - How much time the Builder must Rest before doing a new FocusBuild. Concentrate can be spent to fully rest a builder immediately (Fast Rest).&#x20;
 3. ~~**Earning Rate** - Determines the base rate at which Builder earns Concentrate during Focus Build.~~    &#x20;
 
-&#x20;       **Specialization -** Determines the special aesthetic category of the structures the builder builds.&#x20;
+&#x20;       **Specialization -** Determines the [Special Aesthetic Category](structure-variation-or-animation.md#special-aesthetic-categories) of the structures the builder builds.&#x20;
 
 ****
 
@@ -33,9 +33,11 @@ An immutable characteristic of Builders and are divided into 4 groups&#x20;
 | Rare       | 5%                |
 | Ultra Rare | 1%                |
 
-**Rarities determine Attribute values given the current Attribute Level.** For example, a Rare Builder with a Level 5 Energy Attribute will always have higher Energy than a Common Builder with a Level 5 Energy Attribute, etc. Rarity also effects the probability that the structure created by the Builder is of the Builder's Aesthetic Specialty.
+**Rarities determine Attribute values given the current Attribute Level.** For example, a Rare Builder with a Level 5 Energy Attribute will always have higher Energy than a Common Builder with a Level 5 Energy Attribute, etc.
 
 
+
+Rarity also determines the probability that the structure created by the Builder is of the Builder's Aesthetic Specialty.
 
 ### _Types_
 

@@ -1,10 +1,14 @@
 # Builders
 
-_UPDATE: Earning Levels for Builders have been scrapped. In order to prioritize long-term enjoyability, we want to avoid early players having a strictly unfair advantage of increasing their rate of Concentrate earned, which would increasingly disincentize new users from playing. Instead, we decide to go the direction of increasing Builder and Structure diversity._
+_UPDATE: Earning Levels - which increase the Concentrate a Builder earns per minute during FocusBuild - will unlikely be in current the game design. In order to prioritize long-term enjoyability, we want to avoid early players having a strictly unfair advantage of increasing their rate of Concentrate earned, which would increasingly disincentize new users from playing. Instead, we decide to go the direction of increasing Builder and Structure diversity._
+
+###
+
+### Initial Mint and Supply&#x20;
 
 ### Overall Level
 
-When a Builder reaches a set amount of accumulated FocusBuild Time associated with it, users can spend Concentrate to increase it's Overall Level. As a result, users chose which Attribute to level up.&#x20;
+When a Builder reaches a set amount of accumulated FocusBuild Time associated with it, users can spend Concentrate to increase it's **Overall Level**. As a result, users chose which Attribute to level up - Energy and Rest Time are the Builder's current Attributes.&#x20;
 
 
 
@@ -45,9 +49,9 @@ Rarity also determines the probability that the structure created by the Builder
 
 **Night** - Optimal Concentrate Earnings during FocusBuild's 45 minutes or greater.
 
-### **Rarity x Attributes Statistics** &#x20;
+### **Rarity x Attributes Statistics \[Table Under Construction]** &#x20;
 
-#### **\[Table Under Construction]**
+
 
 | Rarity | Level | Attribute | Value    |
 | ------ | ----- | --------- | -------- |
@@ -57,7 +61,7 @@ Rarity also determines the probability that the structure created by the Builder
 
 ### Base Builders&#x20;
 
-Base Builders can be minted for **.1 SOL** for users who want to enjoy the application strictly without Concentrate rewards and City Tier upgrading. While Base Builders can still create structures to develop their City, **they will not earn Concentrate,  do not have attributes,** and the **Base Focus Build Time** for the City Structure is **not counted when upgrading City Tier.** &#x20;
+Base Builders can be minted for **.1 SOL for users who want to enjoy the application strictly without Concentrate rewards** but still want to enjoy having their productivity data on-chain. While Base Builders can still create structures to develop their City, **they will not earn Concentrate,  do not have attributes,** but still have an associated **total Focus Build Time**
 
 Cities
 

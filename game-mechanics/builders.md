@@ -4,7 +4,9 @@ _UPDATE: Earning Levels - which increase the Concentrate a Builder earns per min
 
 ###
 
-### Initial Mint and Supply&#x20;
+### Initial Mint and Supply
+
+TBD.
 
 ### Overall Level
 

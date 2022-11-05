@@ -55,4 +55,4 @@ For more details on _**Builders**_ and _**Cities**_, continue to [Game Mechanics
 
 **Base Builder NFTs**&#x20;
 
-Base Builders can be minted for **.1 SOL** for users who want to enjoy the application strictly without Concentrate rewards and Specialized Aesthetic Categories. While Base Builders can still create structures to develop their City, **they will not earn Concentrate,  do not have attributes,** and the **Base Focus Build Time** for the City Structure is **not tradable**. &#x20;
+Base Builders can be minted for **.1 SOL** for users who want to enjoy the application strictly without Concentrate rewards and Specialized Aesthetic Categories. While Base Builders can still create structures to develop their City, **they will not earn Concentrate,  do not have attributes,** and the **Base Focus Build Time** for the City Structure is **not counted when upgrading City Tier.** &#x20;

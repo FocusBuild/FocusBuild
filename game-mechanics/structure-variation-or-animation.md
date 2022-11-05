@@ -6,14 +6,14 @@ These Types include residential houses,  skyscrapers, libraries, churches, hospi
 
 ## **Minimum Time Requirements to Build The Structure**
 
-| Minimum FocusBuild Time | Category             | Examples                                      |
+| Minimum FocusBuild Time | Category             | Types                                         |
 | ----------------------- | -------------------- | --------------------------------------------- |
 | 20 minutes              | Small Structures     | roads, custom signs, street lights            |
 | 45 minutes              | Medium Structures    | single story resident homes, small restaurant |
 | 60 minutes              | Large Structures     | 2-3 story buildings, highways                 |
 | > 90 minutes            | Very Large Structure | libraries, hospitals, 4+ story buildings,     |
 
-**The Type of a Structure is determined by users based on its minimum time investment, but the Complexity and Rarity of the Structure that the Builder creates within the category is non-deterministic, resulting in a "loot-box," or variable reward. Distributions are parameterized by Builder Attributes, Time Modifier, and Bonuses from the City.** After a successful FocusBuild session, users can chose to spend Concentrate in order to select the specific structure they wanted within their Category.
+**The Type of a Structure is determined by users,  but the Complexity and Rarity of the Structure that the Builder creates within the category is non-deterministic, resulting in a "loot-box," or variable reward. Distributions are parameterized by Builder Attributes, Time Modifier, and Bonuses from the City.** After a successful FocusBuild session, users can chose to spend Concentrate in order to select the specific structure they wanted within their Category.
 
 Chose the type category. Minimum amount of time you take to .&#x20;
 
@@ -24,7 +24,7 @@ e.g. if you chose to build a road the minimum is 20 minutes. but if you decide t
 * Style - what aesthetic (culture, time period)
 * Rarity - likelihood of creating a specific quality of structure (beauty and detail, quality)
   * Rarity = .9 \* Builder Rarity + +1 \* Time Modifier
-* Complexity - Size and Magnitude
+* Complexity - characterize the Size and Magnitude of the Structure
   * Complexity = .9 \* Time Modifier + .1 \* Builder Rarity
 
 If you have a rarer Builder, it increases the chances that the Structure made will be more detailed and higher quality. But if you have more time then this changes the size

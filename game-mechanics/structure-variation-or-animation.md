@@ -1,8 +1,8 @@
 # Structures
 
-"Structures" are named intentionally because we think there's potential for them to manifest in a limitless amount of Types, Complexities, and Aesthetic Rarity.&#x20;
+Structures are what Cities are made of, and represent the tangible reward for a FocusBuild Session. They are named intentionally because we think there's potential for them to manifest in a limitless amount of Types, Complexities, and Aesthetic Rarity.&#x20;
 
-These Types include residential houses,  skyscrapers, libraries, churches, hospitals, universities and roads.&#x20;
+
 
 ## **Minimum Time Requirements to Build The Structure**
 

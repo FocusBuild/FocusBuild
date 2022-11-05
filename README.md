@@ -21,30 +21,33 @@ While most standard mobile productivity apps aimed toward time management and in
 
 To use Forest, users simply set the timer for however long they want to focus, and once the timer starts, a tree begins to plant. If the user leaves the app, their plant "withers" - if the user completes the timer without leaving the app, they are rewarded their plant, which is shown in their own virtual forest, which displays the entire history of focus sessions they've succesfully completed via their planted trees, allowing users to **tangibly** see the progress they've made in a **visually appealing** way **** and giving a satisfying, extrinsic reward to reinforce a positive habit they want to build**.**&#x20;
 
-This very simple concept, coupled with appealing graphics and users' wide selection of plants they can chose has allowed Forest to reach _#1 in Productivity in the App Store, and over 10M downloads in the Play Store._ **But users' productivity data, including the valued visual reminders of their progress, are tied to an email account and connected to Forest the **_**company**_**, creating risks for erasure and censorship.**&#x20;
+This simple concept, coupled with appealing graphics and a wide selection of plants for users to choose from, has allowed Forest to reach _#1 in Productivity in the App Store, and over 10M downloads in the Play Store._ **But users' productivity data, including the valued visual reminders of their progress, are tied to an email account and connected **_**offchain**_** to Forest company, representing centralized risks of privacy loss, erasure, and censorship.**&#x20;
 
 ****<img src=".gitbook/assets/Untitled Diagram.drawio(1) (3).png" alt="" data-size="original">****
 
 ### **Project Description**
 
-**FocusBuild** is the first productivity mobile application that upgrades this proven concept by bringing this value on-chain, so users will always be able to access their visual progress from wherever and whenever, without any permission. In addition, it is also the first mobile application to incentivize healthy habits with one's phone through it's native cryptocurrency - an opportunity only viable through a trustless, decentralized ledger. While remaining primarily a productivity application, FocusBuild adds an additional layer of enjoyability via strategic city-building, and uses an NFT-system and Game-Fi mechanics inspired by existing "x-to-earn" models, with a strong emphasis on **long-term usability and enjoyability**. See [Tokenomics and Revenue Model.](tokenomics-and-revenue-model.md)
+**FocusBuild** is the first productivity mobile application that upgrades this proven concept by bringing this value on-chain, so users will always be able to control their self-improvement at any time and place, without relying on a corporation's executive permission. In addition, FocusBuild is the first mobile application to incentivize healthy habits with one's phone through its native cryptocurrency - an opportunity only viable through a trustless, decentralized ledger. While remaining primarily a productivity application, FocusBuild contributes an additional layer of engagement via strategic city-building and uses an NFT-system and Game-Fi mechanics inspired by existing "x-to-earn" models, with a strong emphasis on **long-term usability, enjoyability, individual player expressivity and satisfaction**. See [Tokenomics and Revenue Model.](tokenomics-and-revenue-model.md)
 
 ### **Using the App**
 
-Users select their _**Builder** -_ a unique _non-fungible token_ with various _**attributes**_** ** - to build _**structures**_ during a FocusBuild.&#x20;
+Users select their _**Builder** -_ a unique _non-fungible token_ with various _**attributes and rarities**_** ** - to build _**structures**_ during a FocusBuild.&#x20;
 
-FocusBuild = an amount of time intentionally set by the user where the user doesn't leave the application, else their structure is demolished.&#x20;
+FocusBuild = an amount of time intentionally set by the user where the user doesn't leave the application, else their structure is demolished.
 
-When a FocusBuild session is completed _successfully_, users are rewarded a random _**structure**_ determined by how long the timer was initially set for. Structures serve as a tangible reminder of users's time without distraction **stored on-chain.**
+When a FocusBuild session is completed _successfully_, users are rewarded a _**structure**_ stochastically determined by how long the timer was initially set for. Structures serve as a tangible reminder of users's time without distraction **stored on-chain.**
 
 <figure><img src=".gitbook/assets/Screen Shot 2022-10-12 at 2.33.17 PM.png" alt=""><figcaption><p>Builder Selection and Attributes</p></figcaption></figure>
 
-Structures are placed onto the _**City Map**_ - a non-transferrable [**soul-bound** **token**](https://www.coindesk.com/learn/what-are-soulbound-tokens-the-non-transferrable-nft-explained/) representing the user's historical productivity progress - via completed and placed structures - and stores this productivity data (i.e. total FocusBuild time and structures) on-chain. Along with the built structure, when a FocusBuild session is completed, users also earn FocusBuild’s in-game cryptocurrency, _**Concentrate**_. _**Concentrate**_ is spent on:
+Structures are placed onto the _**City Map**_ - a non-transferrable [**soul-bound** **token**](https://www.coindesk.com/learn/what-are-soulbound-tokens-the-non-transferrable-nft-explained/) representing the user's historical productivity progress - via completed and placed structures - and stores this productivity data (i.e. total FocusBuild time and structures) on-chain.  We highly prioritize making structures unique, diverse, and visually beautiful so that users will have a satisfying and permanent representation of their accomplishment.  We're exploring scalable methods to make this possible and machine learning with stable diffusion or other approaches seems promising.  Like Builders, structures will have a variety of attributes including **building type,** **rarity, complexity, and architectural style.**  Completed buildings will provide to bonuses to future building and minting when placed in a city and that city is equipped.
 
-1. Leveling up _Builder Attributes_ to make them more efficient at generating structures and earning more Concentrate.
-2. Unlocking unique in-game-features, such as new or premium structures.
 
-Once developed by _**structures**_ _and_ total accumulated FocusBuild time from non-Base Builders \[see description below], _**Cities**_ can be upgraded to the next **Tier,** allowing them to be _staked and activated_ in a staking pool resulting in a % boost on the _**Concentrate**_ earned by a Builder during FocusBuild. Cities cannot be rapidly developed by Concentrate because structures must be built during FocusBuild, and Cities can only adequately develop via a combination of total accumulated FocusBuild time in addition to structures. In other words, users have to focus in order to progress.
+
+Along with the built structure, when a FocusBuild session is completed, users also earn FocusBuild’s in-game cryptocurrency, _**Concentrate**_. _**Concentrate**_ is tentatively spent on:
+
+1. Leveling up _Builder Attributes_, such as efficiency at creating certain structures, likelihood of creating a structure with certain aesthetics, speed of building.
+2. Upgrading buildings
+3. Unlocking unique in-game-features, such as new or premium structures.
 
 For more details on _**Builders**_ and _**Cities**_, continue to [Game Mechanics.](game-mechanics/)
 

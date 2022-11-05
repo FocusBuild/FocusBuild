@@ -11,13 +11,11 @@ Structures are what Cities are made of, and represent the tangible reward for a 
 | 20 minutes              | Small Structures     | roads, custom signs, street lights            |
 | 45 minutes              | Medium Structures    | single story resident homes, small restaurant |
 | 60 minutes              | Large Structures     | 2-3 story buildings, highways                 |
-| > 90 minutes            | Very Large Structure | libraries, hospitals, 4+ story buildings,     |
+| > 90 minutes            | Very Large Structure | libraries, hospitals, 4+ story buildings      |
 
-**The Type of a Structure is determined by users,  but the Complexity and Rarity of the Structure that the Builder creates within the category is non-deterministic, resulting in a "loot-box," or variable reward. Distributions are parameterized by Builder Attributes, Time Modifier, and Bonuses from the City.** After a successful FocusBuild session, users can chose to spend Concentrate in order to select the specific structure they wanted within their Category.
+**The Type of a Structure is determined by users,  but the Complexity and Rarity of the Structure that the Builder creates within the category is non-deterministic. Distributions of Structure Attributes are parameterized by Builder Attributes, Time Modifier, and Bonuses from the City.** After a successful FocusBuild session, users can chose to spend Concentrate in order to select the specific structure they wanted within their Category.
 
-Chose the type category. Minimum amount of time you take to .&#x20;
 
-e.g. if you chose to build a road the minimum is 20 minutes. but if you decide to invest 1 hour into your road then it is more "complex"
 
 ## Structure Attributes
 
@@ -27,7 +25,7 @@ e.g. if you chose to build a road the minimum is 20 minutes. but if you decide t
 * Complexity - characterize the Size and Magnitude of the Structure
   * Complexity = .9 \* Time Modifier + .1 \* Builder Rarity
 
-If you have a rarer Builder, it increases the chances that the Structure made will be more detailed and higher quality. But if you have more time then this changes the size
+If you have a rarer Builder, it increases the chances that the Structure made will be more detailed and be higher quality.  Contributing more time varies the size and magnitude of the structure. e.g. if you chose to build a road the minimum is 20 minutes but if you decide to invest 1 hour into your road could have more lanes, whether it has a road divider, etc. Using a rare Builder to build this "1-hour-road" would increase the the chances of the road being more visually appealing, its condition, whether it has cracks, etc.&#x20;
 
 ### &#x20;Time Modifier = Your Timer / Minimum Time&#x20;
 

@@ -1,6 +1,10 @@
 # Structures
 
-"Structures" are named intentionally because we think there's potential for them to manifest in a limitless amount of types, different shapes and sizes. These include not only residential houses, but skyscrapers, libraries, churches, hospitals, and roads. Further into development, we will implement structure design to be associated with how long a FocusBuild session is.
+"Structures" are named intentionally because we think there's potential for them to manifest in a limitless amount of types, different shapes and sizes.&#x20;
+
+
+
+These include not only residential houses, but skyscrapers, libraries, churches, hospitals, and roads. Further into development, we will implement structure design to be associated with how long a FocusBuild session is.
 
 ## **Time-based Categories**
 

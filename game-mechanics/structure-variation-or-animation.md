@@ -1,14 +1,10 @@
 # Structures
 
-"Structures" are named intentionally because we think there's potential for them to manifest in a limitless amount of types, different shapes and sizes.&#x20;
+"Structures" are named intentionally because we think there's potential for them to manifest in a limitless amount of Types, Complexities, and Aesthetic Rarity.&#x20;
 
+These Types include residential houses,  skyscrapers, libraries, churches, hospitals, universities and roads.&#x20;
 
-
-These include not only residential houses, but skyscrapers, libraries, churches, hospitals, and roads. Further into development, we will implement structure design to be associated with how long a FocusBuild session is.
-
-## **Minimum Time Requiremenst to Build The Structure**
-
-****
+## **Minimum Time Requirements to Build The Structure**
 
 &#x20;**The Category of a Structure is determined by time, but the specific structure that the Builder creates within the category is random, resulting in a "loot-box," or variable reward, in order to engage user's long term.**  After a successful FocusBuild session, users can chose to spend Concentrate in order to select the specific structure they wanted within their Category.
 

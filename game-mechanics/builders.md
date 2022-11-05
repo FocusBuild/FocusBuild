@@ -8,9 +8,9 @@ _UPDATE: Earning Levels - which increase the Concentrate a Builder earns per min
 
 TBD.
 
-### Overall Level
+### Builder Level
 
-When a Builder reaches a set amount of accumulated FocusBuild Time associated with it, users can spend Concentrate to increase it's **Overall Level**. As a result, users chose which Attribute to level up - Energy and Rest Time are the Builder's current Attributes.&#x20;
+When a Builder reaches a set amount of accumulated FocusBuild Time, users can spend Concentrate to increase it's **Builder Level**. Users can then chose which Attribute to level up - Energy and Rest Time are the Builder's current Attributes.&#x20;
 
 
 
@@ -22,7 +22,6 @@ When a Builder reaches a set amount of accumulated FocusBuild Time associated wi
 
 1. **Energy** - Determines the max capacity of FocusBuild the Builder has before it must Rest.&#x20;
 2. **Rest Time** - How much time the Builder must Rest before doing a new FocusBuild. Concentrate can be spent to fully rest a builder immediately (Fast Rest).&#x20;
-3. ~~**Earning Rate** - Determines the base rate at which Builder earns Concentrate during Focus Build.~~    &#x20;
 
 &#x20;       **Specialization -** Determines the [Special Aesthetic Category](structure-variation-or-animation.md#special-aesthetic-categories) of the structures the builder builds.&#x20;
 

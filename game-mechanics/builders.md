@@ -8,9 +8,24 @@ _UPDATE: Earning Levels - which increase the Concentrate a Builder earns per min
 
 TBD.
 
+
+
+
+
+### Attributes:
+
+FocusBuild Builders are diversely characterized by a variety of attributes that enable a wide range of player expression and specialization.
+
+* **Rarity** - Determines strength of other attributes
+* **Specialty** - Builders will specialize in some architectural style(s) based on their background. &#x20;
+* **Traits** - Builders can have buffs or debuffs to certain styles and types
+* **Build speed** - Ratio of productivity throughput to a base builder
+* **Energy** - Determines the max capacity of FocusBuild the Builder has before it must Rest.&#x20;
+* **Rest Time** - How much time the Builder must Rest before doing a new FocusBuild. Concentrate can be spent to fully rest a builder immediately (Fast Rest).&#x20;
+
 ### Builder Level
 
-When a Builder reaches a set amount of accumulated FocusBuild Time, users can spend Concentrate to increase it's **Builder Level**. Users can then chose which Attribute to level up - Energy and Rest Time are the Builder's current Attributes.&#x20;
+When a Builder reaches a set amount of accumulated FocusBuild Time, users can spend Concentrate to increase its **Builder Level**. The builder then gains attribute points which can be spent to level up one of the builder's Attributes.  The separation of attribute and builder levels allows players to specialize builders for certain tasks.  For instance, a player who wants a city with diverse architectural styles might avoid leveling up a builder's specialty and instead spend points on build speed or favorable traits whereas speciality, energy, and rest time would boost a player's construction of buildings of a single style for a more aesthetically uniform city.
 
 
 
@@ -18,16 +33,15 @@ When a Builder reaches a set amount of accumulated FocusBuild Time, users can sp
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-10-28 at 3.13.48 PM.png" alt=""><figcaption><p><strong>Builder Page</strong></p></figcaption></figure>
 
-### **Attributes**&#x20;
-
-1. **Energy** - Determines the max capacity of FocusBuild the Builder has before it must Rest.&#x20;
-2. **Rest Time** - How much time the Builder must Rest before doing a new FocusBuild. Concentrate can be spent to fully rest a builder immediately (Fast Rest).&#x20;
-
-&#x20;       **Specialization -** Determines the [Special Aesthetic Category](structure-variation-or-animation.md#special-aesthetic-categories) of the structures the builder builds.&#x20;
-
 ****
 
-### _Attribute Rarity_
+###
+
+### Attribute Levels
+
+Players can spend concentrate to upgrade attributes other than rarity, improving their numerical values.
+
+### _Builder Rarity_
 
 An immutable characteristic of Builders and divided into 4 groups&#x20;
 
@@ -38,11 +52,9 @@ An immutable characteristic of Builders and divided into 4 groups&#x20;
 | Rare       | 5%                |
 | Ultra Rare | 1%                |
 
-**Rarities determine Attribute values given the current Attribute Level.** For example, a Rare Builder with a Level 5 Energy Attribute will always have higher Energy than a Common Builder with a Level 5 Energy Attribute, etc.
+**Rarities determine Attribute values given the current Attribute Level.** For example, a Rare Builder with a Level 5 Energy Attribute will always have higher Energy than a Common Builder with a Level 5 Energy Attribute, etc.  In the case of specialization, rarer builders will be more likely to build rarer structure styles and have sharper probability distributions.
 
 
-
-Rarity also determines the probability that the structure created by the Builder is of the Builder's Aesthetic Specialty.
 
 ### _Types_
 
@@ -63,9 +75,3 @@ Rarity also determines the probability that the structure created by the Builder
 ### Base Builders&#x20;
 
 Base Builders can be minted for **.1 SOL for users who want to enjoy the application strictly without Concentrate rewards** but still want to enjoy having their productivity data on-chain. While Base Builders can still create structures to develop their City, **they will not earn Concentrate,  do not have attributes,** but still have an associated **total Focus Build Time**
-
-Cities
-
-Cities are a visually appealing, tangible representations of the progress one's made focusing, stored on-chain. When a structure is built, they appear in the Inventory. From there, users place the structure onto their map, further developing their city.&#x20;
-
-**Structures make up the city and are earned when a FocusBuild is completed. In terms of the types of structures and their 3D-Animated Design, the sky is the limit!City Tier | Boost Table \[Under Construction]**

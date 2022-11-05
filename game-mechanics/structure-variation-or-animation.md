@@ -6,10 +6,6 @@ These Types include residential houses,  skyscrapers, libraries, churches, hospi
 
 ## **Minimum Time Requirements to Build The Structure**
 
-&#x20;**Each Structure has a minimum amount of time needed to build it.**&#x20;
-
-****
-
 | Minimum FocusBuild Time | Category             | Examples                                      |
 | ----------------------- | -------------------- | --------------------------------------------- |
 | 20 minutes              | Small Structures     | roads, custom signs, street lights            |

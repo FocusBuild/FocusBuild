@@ -23,15 +23,18 @@ Chose the type category. Minimum amount of time you take to .&#x20;
 
 e.g. if you chose to build a road the minimum is 20 minutes. but if you decide to invest 1 hour into your road then it is more "complex"
 
-* Structure Attributes
-  * Style - what aesthetic (culture, time period)
-  * Rarity - likelihood of creating a specific quality of structure (beauty and detail, quality)
-    * Rarity = .9 \* Builder Rarity + +1 \* Time Spent&#x20;
-  * Complexity - Size and Magnitude
-    * Complexity = .9 \* Time Spent + .1 \* Builder Rarity
-* If you have a rarer builder make better and higher quality structure. But if you have more time then this changes the size
-* **Your Timer / Minimum Time = Time Modifier**&#x20;
-  * **This Time Modifier is a ratio that determines the Rarity and Complexity of the Selected Structure.**
+## Structure Attributes
+
+* Style - what aesthetic (culture, time period)
+* Rarity - likelihood of creating a specific quality of structure (beauty and detail, quality)
+  * Rarity = .9 \* Builder Rarity + +1 \* Time Modifier
+* Complexity - Size and Magnitude
+  * Complexity = .9 \* Time Modifier + .1 \* Builder Rarity
+
+If you have a rarer Builder, it increases the chances that the Structure made will be more detailed and higher quality. But if you have more time then this changes the size
+
+* &#x20;Time Modifier = Your Timer / Minimum Time&#x20;
+  * This Time Modifier is a ratio that contributes to the Rarity and Complexity of the Selected Structure.
   * e.g. Road has a base time cost of 20 minutes. Library has a base time cost of 90 minutes. If I spend 20 minutes on a road, and 90 minutes on a library, they will have a Time Modifier of 1 and share the same Rarity | Complexity Table. But If you spend 40 minutes on a road you will get a more complex and rare road. If you spend 180 minutes on a library, you will get a more complex and rare library.
 
 <img src="../.gitbook/assets/noun-4267809(1) (1).png" alt="" data-size="original">![](<../.gitbook/assets/noun-3222595(1) (2).png>)

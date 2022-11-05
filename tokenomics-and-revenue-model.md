@@ -11,16 +11,10 @@ description: The information below is subject to change.
 Concentrate is FocusBuild's in-game currency used for:
 
 * Upgrading Builder Attributes (i.e. Energy, Rest)
+* Selecting a structure at the end of a FocusBuild session if the created Structure or its  Aesthetic isn't wanted.
 * Speeding up a Rest session of a Builder.
-* Rewarding the Community for generating interesting Structures and building beautiful Cities via [Competitions.](building-community.md)
 * Unlocking Premium Features&#x20;
   * Special Structures
-
-**Game Taxes**
-
-* trading builders
-* leveling up builders&#x20;
-* trading structures that are in Inventor (i.e. not yet placed on the City SBT)
 
 ### **Supply**&#x20;
 

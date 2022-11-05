@@ -4,7 +4,9 @@
 
 The goal for FocusBuild is to create a top-tier, blockchain-based mobile application that encourages healthy phone habits and enables people to focus on what really matters to them in real life. &#x20;
 
+**Q: With the variety of  structures you build, do they serve unique purposes? Or are they fully aesthetic?**
 
+We’re building a productivity app, you can’t interact with the structures except for placing them on your City Map. This isn’t Sims, its a work of art.  Structures are selected before a user starts FocusBuild and rewarded upon a successful Build, they cannot be purchased. On the technical side, Structures are not their own NFT Smart Contract, but metadata within either the Builder or CityMap, depending if the Structure is completed.  Currently, the Structures available are Residential Building, Road, with more coming in the future. Interactions of the structures or structure placement are outside of the initial scope of the product, but it is a possibility in the future.
 
 **Q: Can I buy Structures from the Marketplace?**
 
@@ -15,7 +17,8 @@ Structures cannot be bought on the marketplace, in-game or on-chain - that would
 Users spend Concentrate to level up their Builder. Once done, they are given a point to level up one of their Attributes:
 
 1. Energy - Determines how much FocusBuild time Builder has before it must Rest&#x20;
-2. Rest Time - How much time the Builder must Rest before doing a new FocusBuild.
+2. Earning Rate - Determines the base rate at which Builder earns Concentrate during Focus Build
+3. Rest Time - How much time the Builder must Rest before doing a new FocusBuild.
 
 **Q: Can a user "game the system" by doing many small focus sessions to build many structures, rapidly developing the City?**
 

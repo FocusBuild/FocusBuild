@@ -46,6 +46,8 @@ If you have a rarer Builder, it increases the chances that the Structure made wi
 
 
 
-**3D Animation Design Potential**
+### **Scalable generation of Structure Assets**
 
-3D Design Concepts for Structures below once completed. We are also exploring AI-based 3D Structure creation.
+It is a high priority for individual structures to be visually beautiful yet unique, desirable as standalone art, in order to not only keep players engaged by the building process and also have intrinsic economic value for trading purposes.  In order to accomplish this at large scale, we are exploring recent advances in generative machine learning to create structure assets.  In particular, stable diffusion networks have been highly successful in generating 2D art conditioned on text specifications and recent publications have demonstrated its efficacy for 3D modeling as well.  We intend to train or fine tune such a model to convert a structure's parametrizing attributes (structure type, style, rarity, and complexity) to a 3D model.
+
+This would also allow us to explicitly and objectively encode definitions of rarity and complexity by, for instance, training a separate model with larger/deeper hidden layers for the higher rarities and complexities.

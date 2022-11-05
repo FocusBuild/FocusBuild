@@ -6,7 +6,9 @@ These Types include residential houses,  skyscrapers, libraries, churches, hospi
 
 ## **Minimum Time Requirements to Build The Structure**
 
-&#x20;**The Category of a Structure is determined by time, but the specific structure that the Builder creates within the category is random, resulting in a "loot-box," or variable reward, in order to engage user's long term.**  After a successful FocusBuild session, users can chose to spend Concentrate in order to select the specific structure they wanted within their Category.
+&#x20;**Each Structure has a minimum amount of time needed to build it.**&#x20;
+
+****
 
 | FocusBuild Time | Category             | Examples                                      |
 | --------------- | -------------------- | --------------------------------------------- |
@@ -14,6 +16,8 @@ These Types include residential houses,  skyscrapers, libraries, churches, hospi
 | 20-45 minutes   | Medium Structures    | single story resident homes, small restaurant |
 | 45 - 90 minutes | Large Structures     | 2-3 story buildings, highways                 |
 | > 90 minutes    | Very Large Structure | libraries, hospitals, 4+ story buildings,     |
+
+**The Category of a Structure is determined by time, but the specific structure that the Builder creates within the category is random, resulting in a "loot-box," or variable reward, in order to engage user's long term.**  After a successful FocusBuild session, users can chose to spend Concentrate in order to select the specific structure they wanted within their Category.
 
 Chose the type category. Minimum amount of time you take to .&#x20;
 

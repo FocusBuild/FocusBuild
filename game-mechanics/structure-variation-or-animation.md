@@ -15,11 +15,13 @@ Structures are what Cities are made of, and represent the tangible reward for a 
 
 **The Type of a Structure is determined by users,  but the Complexity and Rarity of the Structure that the Builder creates within the category is non-deterministic. Distributions of Structure Attributes are parameterized by Builder Attributes, Time Modifier, and Bonuses from the City.** After a successful FocusBuild session, users can chose to spend Concentrate in order to select the specific structure they wanted within their Category.
 
+### **Structure Minting**
 
+Finishing a build will send message to our server that will verify its a legitimate build. Then our server will initiate a mint on the Structure smart contract. Users pay a gas fee for the mint before initiating a FocusBuild in SOL (this psychology commits users to completing a FocusBuild).
 
 ## Structure Attributes
 
-* Style - what aesthetic (culture, time period)
+* Style - what aesthetic (culture, time period, theme)
 * Rarity - likelihood of creating a specific quality of structure (beauty and detail, quality)
   * Rarity = .9 \* Builder Rarity + +1 \* Time Modifier
 * Complexity - characterize the Size and Magnitude of the Structure

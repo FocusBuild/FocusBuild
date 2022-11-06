@@ -4,7 +4,7 @@ _UPDATE: Staking for Cities in echange for boosted Concentrate rewards have been
 
 ## Cities
 
-Cities are a visually appealing, tangible representations - in isometric view - of the progress one's made focusing. From a data perspective, they are stored on-chain as _non-fungible and non-tradeable **soul-bound tokens**_**. Your productivity history is yours forever to keep.** When a Structure is built, they appear in the Inventory. From there, users place the structure onto their map, further developing their city. Selecting a Structure placed on the map will open a view the FocusBuild details associated with that structure (i.e. Builder, minutes spent).
+Cities are a visually appealing, tangible representations - in isometric view - of the progress one's made focusing. From a data perspective, they are stored on-chain as _non-fungible and non-tradeable **soul-bound tokens**_**. Your productivity history is your's forever to keep.** When a Structure is built, they appear in the Inventory. From there, users place the structure onto their map, further developing their city. Selecting a Structure placed on the map will open a view the FocusBuild details associated with that structure (i.e. Builder, minutes spent).
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-10-12 at 2.34.43 PM.png" alt=""><figcaption><p>Drag and Drop City Map Concept</p></figcaption></figure>
 

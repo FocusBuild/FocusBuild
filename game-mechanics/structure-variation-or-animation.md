@@ -2,15 +2,17 @@
 
 Structures are what Cities are made of, and represent the tangible reward for a FocusBuild Session. They are named intentionally because we think there's potential for them to manifest in a limitless amount of Types, Complexities, and Aesthetic Rarity.&#x20;
 
-
-
 ### Structure Attributes
 
-* Rarity: Affects the visual quality and detail of a structure's model as well as the type, number, and magnitude of equip bonuses
+* Aesthetic Rarity: Affects the visual quality and detail of a structure's model as well as the type, number, and magnitude of equip bonuses
+  * Rarity = .9 \* Builder Rarity + +1 \* Time Modifier
 * Style:  Architectural style of the structure
 * Complexity:  Affects the visual size/grandeur of the structure's model and the number and magnitude of equip bonuses
+  * Complexity = .9 \* Time Modifier + .1 \* Builder Rarity
 * Model:  3D in game structure model
 * Equip bonuses:  Structures will contribute bonuses to future structure building and builder minting when placed on a map and equipped.
+
+If you have a rarer Builder, it increases the chances that the Structure made will be more detailed and be higher quality.  Contributing more time varies the size and magnitude of the structure. e.g. if you chose to build a road the minimum is 20 minutes but if you decide to invest 1 hour into your road could have more lanes, whether it has a road divider, etc. Using a rare Builder to build this "1-hour-road" would increase the the chances of the road being more visually appealing, its condition, whether it has cracks, etc.&#x20;
 
 ## **Minimum Time Requirements to Build The Structure**
 
@@ -27,15 +29,7 @@ Structures are what Cities are made of, and represent the tangible reward for a 
 
 Finishing a build will send message to our server that will verify its a legitimate Build. Then our server will initiate a mint on the Structure smart contract. Users pay a gas fee for the mint before initiating a FocusBuild in SOL.&#x20;
 
-## Structure Attributes
 
-* Style - what aesthetic (culture, time period, theme)
-* Rarity - likelihood of creating a specific quality of structure (beauty and detail, quality)
-  * Rarity = .9 \* Builder Rarity + +1 \* Time Modifier
-* Complexity - characterize the Size and Magnitude of the Structure
-  * Complexity = .9 \* Time Modifier + .1 \* Builder Rarity
-
-If you have a rarer Builder, it increases the chances that the Structure made will be more detailed and be higher quality.  Contributing more time varies the size and magnitude of the structure. e.g. if you chose to build a road the minimum is 20 minutes but if you decide to invest 1 hour into your road could have more lanes, whether it has a road divider, etc. Using a rare Builder to build this "1-hour-road" would increase the the chances of the road being more visually appealing, its condition, whether it has cracks, etc.&#x20;
 
 ### &#x20;Time Modifier = Your Timer / Minimum Time Required to Complete Structure&#x20;
 

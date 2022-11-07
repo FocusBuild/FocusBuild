@@ -17,7 +17,7 @@ Structures are what Cities are made of, and represent the tangible reward for a 
 
 ### **Structure Minting**
 
-Finishing a build will send message to our server that will verify its a legitimate build. Then our server will initiate a mint on the Structure smart contract. Users pay a gas fee for the mint before initiating a FocusBuild in SOL (this psychology commits users to completing a FocusBuild).
+Finishing a build will send message to our server that will verify its a legitimate Build. Then our server will initiate a mint on the Structure smart contract. Users pay a gas fee for the mint before initiating a FocusBuild in SOL.&#x20;
 
 ## Structure Attributes
 
@@ -29,7 +29,7 @@ Finishing a build will send message to our server that will verify its a legitim
 
 If you have a rarer Builder, it increases the chances that the Structure made will be more detailed and be higher quality.  Contributing more time varies the size and magnitude of the structure. e.g. if you chose to build a road the minimum is 20 minutes but if you decide to invest 1 hour into your road could have more lanes, whether it has a road divider, etc. Using a rare Builder to build this "1-hour-road" would increase the the chances of the road being more visually appealing, its condition, whether it has cracks, etc.&#x20;
 
-### &#x20;Time Modifier = Your Timer / Minimum Time&#x20;
+### &#x20;Time Modifier = Your Timer / Minimum Time Required to Complete Structure&#x20;
 
 * This Time Modifier is a ratio that contributes to the Rarity and Complexity of the Selected Structure.
 * e.g. Road has a base time cost of 20 minutes. Library has a base time cost of 90 minutes. If I spend 20 minutes on a road, and 90 minutes on a library, they will have a Time Modifier of 1 and share the same Rarity | Complexity Table. But If you spend 40 minutes on a road you will get a more complex and rare road. If you spend 180 minutes on a library, you will get a more complex and rare library.

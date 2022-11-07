@@ -4,6 +4,14 @@ Structures are what Cities are made of, and represent the tangible reward for a 
 
 
 
+### Structure Attributes
+
+* Rarity: Affects the visual quality and detail of a structure's model as well as the type, number, and magnitude of equip bonuses
+* Style:  Architectural style of the structure
+* Complexity:  Affects the visual size/grandeur of the structure's model and the number and magnitude of equip bonuses
+* Model:  3D in game structure model
+* Equip bonuses:  Structures will contribute bonuses to future structure building and builder minting when placed on a map and equipped.
+
 ## **Minimum Time Requirements to Build The Structure**
 
 | Minimum FocusBuild Time | Category             | Types                                         |

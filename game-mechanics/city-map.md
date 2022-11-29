@@ -1,6 +1,6 @@
 # City Map
 
-_UPDATE: Staking for Cities in echange for boosted Concentrate rewards have been scrapped. In order to prioritize long-term enjoyability, we want to avoid early players having a strictly unfair advantage of increasing their rate of Concentrate earned, which would increasingly disincentize new users from playing. Instead, we decide to go the direction of increasing Builder and Structure diversity._
+_UPDATE: Staking for Cities in exchange for boosted Concentrate rewards have been considered. However, in order to prioritize long-term enjoyability, we want to avoid early players having a strictly unfair advantage of increasing their rate of Concentrate earned, which would increasingly disincentize new users from playing. Instead, we decide to go the direction of increasing Builder and Structure diversity._
 
 ## Cities
 

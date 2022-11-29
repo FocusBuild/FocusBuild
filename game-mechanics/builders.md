@@ -1,18 +1,16 @@
 # Builders
 
-**Initial Mint and Supply:**
+### **Initial Mint and Supply:**
 
 TBD.
-
-
 
 ### Attributes:
 
 FocusBuild Builders are diversely characterized by a variety of attributes that enable a wide range of player expression and specialization.
 
 * **Rarity** - Determines strength of other attributes
-* **Specialty** - Builders will specialize in some architectural style(s) based on their background. &#x20;
-* **Traits** - Builders can have buffs or debuffs to certain styles and types
+* **Specialty** - Builders will specialize in some Structure architectural style(s) based on their background. &#x20;
+* **Traits** - Builders can have buffs or debuffs to certain Structure styles and types
 * **Build speed** - Ratio of productivity throughput to a base builder
 * **Energy** - Determines the max capacity of FocusBuild the Builder has before it must Rest.&#x20;
 * **Rest Time** - How much time the Builder must Rest before doing a new FocusBuild. Concentrate can be spent to fully rest a builder immediately (Fast Rest).&#x20;

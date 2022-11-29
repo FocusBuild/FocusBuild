@@ -17,7 +17,7 @@ FocusBuild Builders are diversely characterized by a variety of attributes that 
 
 ### Builder Level
 
-When a Builder reaches a set amount of accumulated FocusBuild Time, users can spend Concentrate to increase its **Builder Level**. The builder then gains attribute points which can be spent to level up one of the builder's Attributes.  The separation of attribute and builder levels allows players to specialize builders for certain tasks.  For instance, a player who wants a city with diverse architectural styles might avoid leveling up a builder's specialty and instead spend points on build speed or favorable traits whereas speciality, energy, and rest time would boost a player's construction of buildings of a single style for a more aesthetically uniform city.
+When a Builder reaches a set amount of accumulated FocusBuild Time, users can spend Concentrate to increase its **Builder Level,** effectively allowing the user to level up one of the builder's Attributes.  The separation of attribute and builder levels allows players to specialize builders for certain tasks.  For instance, a player who wants a city with diverse architectural styles might avoid leveling up a builder's specialty and instead spend points on build speed or favorable traits whereas speciality, energy, and rest time would boost a player's construction of buildings of a single style for a more aesthetically uniform city.
 
 
 

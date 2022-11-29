@@ -1,10 +1,6 @@
 # Builders
 
-__
-
-###
-
-### Initial Mint and Supply
+**Initial Mint and Supply:**
 
 TBD.
 

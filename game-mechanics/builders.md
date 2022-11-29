@@ -25,13 +25,9 @@ When a Builder reaches a set amount of accumulated FocusBuild Time, users can sp
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-10-28 at 3.13.48 PM.png" alt=""><figcaption><p><strong>Builder Page</strong></p></figcaption></figure>
 
-****
-
-###
-
 ### Attribute Levels
 
-Players can spend concentrate to upgrade attributes other than rarity, improving their numerical values.
+Players can spend Concentrate to upgrade Attributes improving their numerical values.
 
 ### _Builder Rarity_
 
